@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # XOR Problemi ve Yapay Sinir Ağları
 
 Bu projede XOR probleminin tek katmanlı perceptron ve çok katmanlı yapay sinir ağı ile çözümü incelenmiştir.
